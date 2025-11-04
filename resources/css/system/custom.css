@@ -1,0 +1,19 @@
+/* Custom styles */
+.scope-menu-toggle-btn{
+    position: fixed;
+    right: 10px;
+    bottom: 66px;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    border: 1px solid #dbdbdb;
+    background: #00b4af;
+    color: #fff;
+    font-size: 20px;
+    box-shadow: 0.6px 0.7px 8px 0.7px #3b3b3b33;
+    z-index: 1000;
+}
+.scope-menu-toggle-btn:hover{
+    background: #fff;
+    color: #00b4af;
+}
